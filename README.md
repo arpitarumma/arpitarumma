@@ -2,7 +2,7 @@
 
 ---
 
-![](https://komarev.com/ghpvc/?username=arpitarumma&color=9b59b6) <!-- Purple color -->
+![](https://komarev.com/ghpvc/?username=arpitarumma&color=9b59b6) <!-- Purple profile counter -->
 
 <h3>When I code and analyze data, I rely on</h3>
 <p>
@@ -20,15 +20,21 @@
   <img alt="Tableau" src="https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
   <img alt="Power BI" src="https://img.shields.io/badge/-PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="Gradio" src="https://img.shields.io/badge/-Gradio-17B978?style=flat-square&logo=gradio&logoColor=white" />
 </p>
 
 <h3>🌟 Roles & Skills</h3>
-- Data Analyst  
-- Data Engineer (in learning phase)  
-- Frontend Web Developer  
-- Python & SQL Enthusiast  
-- Dashboard and Visualization Creator 📊  
-- Cloud Beginner ☁️ (GCP basics)
+
+- Data Analyst 🔍  
+- Business Intelligence Developer 📈  
+- Machine Learning Model Prototyper 🤖  
+- Dashboard Designer (Tableau / Power BI) 📊  
+- Data Visualization Expert 🎨  
+- Python Programmer 🐍  
+- SQL and Database Management 🗄️  
+- Report Generation and Automation 📑  
+- API Integration with Data Tools 🔗  
+- Cloud Enthusiast ☁️ (Learning GCP Basics)  
 
 ---
 
