@@ -1,53 +1,69 @@
-### 👋 Hi there, I'm Arpita Rumma!
+### 🌸 Hi, I'm Arpita Rumma!
 
----
+![](https://komarev.com/ghpvc/?username=arpitarumma&color=e0c3fc&style=flat-square)
 
-![](https://komarev.com/ghpvc/?username=arpitarumma&color=9b59b6) <!-- Purple profile counter -->
-
-<h3>When I code and analyze data, I rely on</h3>
-<p>
-  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="GitHub Actions" src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  
-  <!-- Data Analytics Tools -->
-  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img alt="NumPy" src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-  <img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
-  <img alt="Scikit-Learn" src="https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-  <img alt="Tableau" src="https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
-  <img alt="Power BI" src="https://img.shields.io/badge/-PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img alt="Gradio" src="https://img.shields.io/badge/-Gradio-17B978?style=flat-square&logo=gradio&logoColor=white" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Analyst+%F0%9F%94%8D;ML+Model+Prototyper+%F0%9F%A7%A0;Dashboard+Designer+%F0%9F%93%8A;Storyteller+with+Data+%F0%9F%93%84;&font=Fira%20Code&center=true&width=440&height=45&color=d6a2e8&vCenter=true&size=22">
 </p>
 
-<h3>🌟 Roles & Skills</h3>
+---
 
-- Data Analyst 🔍  
-- Business Intelligence Developer 📈  
-- Machine Learning Model Prototyper 🤖  
-- Dashboard Designer (Tableau / Power BI) 📊  
-- Data Visualization Expert 🎨  
-- Python Programmer 🐍  
-- SQL and Database Management 🗄️  
-- Report Generation and Automation 📑  
-- API Integration with Data Tools 🔗  
-- Cloud Enthusiast ☁️ (Learning GCP Basics)  
+### 🧰 Tools I Love
+
+<p align="center">
+  <!-- Data & ML -->
+  <img src="https://img.shields.io/badge/Python-F2BED1?style=for-the-badge&logo=python&logoColor=black" />
+  <img src="https://img.shields.io/badge/Pandas-FDCEDF?style=for-the-badge&logo=pandas&logoColor=black" />
+  <img src="https://img.shields.io/badge/NumPy-E8A0BF?style=for-the-badge&logo=numpy&logoColor=black" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F3D1F4?style=for-the-badge&logo=scikit-learn&logoColor=black" />
+  <img src="https://img.shields.io/badge/Jupyter-FCFFE7?style=for-the-badge&logo=jupyter&logoColor=black" />
+  
+  <!-- Visualization -->
+  <img src="https://img.shields.io/badge/Power%20BI-E5CFF7?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-F6DFEB?style=for-the-badge&logo=tableau&logoColor=black" />
+  <img src="https://img.shields.io/badge/Matplotlib-F5E8DD?style=for-the-badge&logo=plotly&logoColor=black" />
+
+  <!-- Databases & Cloud -->
+  <img src="https://img.shields.io/badge/MySQL-E0BBE4?style=for-the-badge&logo=mysql&logoColor=black" />
+  <img src="https://img.shields.io/badge/MongoDB-FFD9DA?style=for-the-badge&logo=mongodb&logoColor=black" />
+  <img src="https://img.shields.io/badge/GCP-FDE2FF?style=for-the-badge&logo=google-cloud&logoColor=black" />
+
+  <!-- App Demos -->
+  <img src="https://img.shields.io/badge/Gradio-C6D8FF?style=for-the-badge&logo=gradio&logoColor=black" />
+  <img src="https://img.shields.io/badge/Streamlit-D0F4DE?style=for-the-badge&logo=streamlit&logoColor=black" />
+</p>
 
 ---
 
-If you think I deserve a little pick-me-up, why not treat me to a cup of coffee/tea? 🥺
+### 💖 GitHub Vibes
 
-<a href="https://www.buymeacoffee.com/arpitarumma" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-purple.png" alt="Buy Me A Coffee" width="150">
-</a>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=arpitarumma&theme=calm-pink&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=arpitarumma&show_icons=true&hide_border=true&title_color=E6A4B4&icon_color=E6A4B4&text_color=AA8FB5&bg_color=FFFFFF" />
+</p>
 
-<h3>My GitHub contributions summary</h3>
+---
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=arpitarumma&theme=material-palenight&hide_border=false)](https://git.io/streak-stats)
+### 🎯 Featured Projects
 
-![Arpita's GitHub stats](https://github-readme-stats.vercel.app/api?username=arpitarumma&hide_border=true&show_icons=true&bg_color=151515&title_color=9b59b6&icon_color=9b59b6&text_bold=false&text_color=9e9e9e)
+<p align="center">
+  <a href="https://github.com/arpitarumma/ciphergate">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arpitarumma&repo=ciphergate&theme=calm-pink&hide_border=true" />
+  </a>
+  <a href="https://github.com/arpitarumma/student-grade-tracker">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arpitarumma&repo=student-grade-tracker&theme=calm-pink&hide_border=true" />
+  </a>
+</p>
+
+---
+
+### ☕ Buy Me a Coffee?
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/arpitarumma" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-purple.png" alt="Buy Me A Coffee" width="170" />
+  </a>
+</p>
 
 ---
