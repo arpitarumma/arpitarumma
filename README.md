@@ -45,16 +45,6 @@
 
 ---
 
-### 🎯 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/arpitarumma/ciphergate">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arpitarumma&repo=ciphergate&theme=calm-pink&hide_border=true" />
-  </a>
-  <a href="https://github.com/arpitarumma/student-grade-tracker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arpitarumma&repo=student-grade-tracker&theme=calm-pink&hide_border=true" />
-  </a>
-</p>
 
 ---
 
